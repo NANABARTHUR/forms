@@ -26,3 +26,12 @@ h2{
     font-style: italic;
     color: black;
 }
+#submit{
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+    background-color: gray;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+}
