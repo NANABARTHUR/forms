@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+div{
+    background-color: gray;
+}
+form{
+    border: transparent;
+    width: 35vw;
+    height: auto;
+    background-color: bisque;
+    margin: auto;
+    padding: 25px;
+    border-radius: 4px;
+}
+input{
+    margin:  10px;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase; 
+    text-decoration: underline;
+    margin: 10px;
+    font-style: italic;
+    color: black;
+}
